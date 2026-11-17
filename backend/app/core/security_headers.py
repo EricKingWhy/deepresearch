@@ -1,6 +1,3 @@
-# Copyright © 2026 深圳市深维智见教育科技有限公司 版权所有
-# 未经授权，禁止转售或仿制。
-
 """安全响应头：Content-Security-Policy 的策略值与路径豁免规则。
 
 **为什么独立成模块**：与 ``core/cors.py`` 同一理由 —— ``app/app_main.py`` 一被导入就会
