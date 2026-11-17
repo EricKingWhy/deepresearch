@@ -1,6 +1,3 @@
-# Copyright © 2026 深圳市深维智见教育科技有限公司 版权所有
-# 未经授权，禁止转售或仿制。
-
 """
 ⚠️ 有意保留（PRD NG-3）：本模块属于 **V1 ReAct 研究路线**（与 deep_research_v2/ 的 V2 多智能体
 路线并行保留的备选实现），由 `POST /research/stream` 显式传 `version=v1` 时触发。

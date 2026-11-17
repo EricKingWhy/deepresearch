@@ -1,6 +1,3 @@
-# Copyright © 2026 深圳市深维智见教育科技有限公司 版权所有
-# 未经授权，禁止转售或仿制。
-
 """SSE 事件序列化工具（从 service/dr_g.py 原样抽离，见 tickets.md T15）。
 
 抽离目的：research_router 只需要这一个序列化函数，此前却因此反向依赖

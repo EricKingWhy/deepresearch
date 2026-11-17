@@ -1,6 +1,3 @@
-# Copyright © 2026 深圳市深维智见教育科技有限公司 版权所有
-# 未经授权，禁止转售或仿制。
-
 """研究取消协议（从 `router/research_router.py` 迁出的中立位，见 tickets.md T68）。
 
 归属理由与 `core/serialization.py`（T15）同型：取消协议此前归 `research_router`
